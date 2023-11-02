@@ -1,0 +1,1 @@
+!function(e,o){"object"==typeof exports&&"undefined"!=typeof module?module.exports=o(require("lodash")):"function"==typeof define&&define.amd?define(["lodash"],o):(e="undefined"!=typeof globalThis?globalThis:e||self).etcRollup=o(e._)}(this,(function(e){"use strict";return function(){return console.log("foo"),e.add(1,2)}}));
